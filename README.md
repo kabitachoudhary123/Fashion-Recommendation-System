@@ -1,4 +1,4 @@
-# Fshion-Recommendation-System
+# Fashion-Recommendation-System
 Its about recommending fashion products using image file uploaded implemented using CNN and tensorflow.
 
 Tools used: Pycharm, 
